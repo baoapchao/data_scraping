@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+*__pycache__/
+craw_stock_data/data/
+*glossary-list.csv
